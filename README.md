@@ -1,4 +1,4 @@
-# 👨‍💻 Sharath Mukherjee
+# 👨‍💻 Sharath Kumar
 
 **Full-Stack Developer | Functional Consultant | Product Manager**
 
